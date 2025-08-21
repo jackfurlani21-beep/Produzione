@@ -14,3 +14,4 @@ Generazione automatica APK Android per gestione magazzino.
 - ✅ Multi-codice (SKU, barcode)  
 - ✅ Import Excel
 - ✅ Proposte ordine automatiche
+
